@@ -4,9 +4,9 @@
 // ==================================
 module.exports = {
   // MongoDB connection options
-  mongo: {
-    uri: 'mongodb://localhost/wanderlust-dev'
-  },
+  // mongo: {
+  //   uri: 'mongodb://localhost/wanderlust-dev'
+  // },
 
-  seedDB: true
+  seedDB: false
 };
